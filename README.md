@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-time student at the University Of Technology, Jamaica. I am also a fullstack developer who specializes in website development and dabbles in mobile application development. You can learn more about me at https://www.nicholasdsmith.com
+I'm a full-time student at the [University Of Technology, Jamaica](https://www.utech.edu.jm) studying a BSC in Computing. I am also a fullstack developer who specializes in website development and dabbles in mobile application development. You can learn more about me at https://www.nicholasdsmith.com
 
 
 ## 🌐 Socials:
